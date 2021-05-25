@@ -1,0 +1,24 @@
+.brd{
+    width:2.5rem;
+    height:2.5rem;
+}
+
+.brd2{
+    width:3rem;
+    height:3rem;
+}
+
+.psize{
+    width:100%;
+    height:100%;
+}
+
+.conbg{
+    background-color:#744cfb;
+}
+
+.ic{
+    width:3rem;
+    height:3rem;
+    line-height:3rem;
+}
